@@ -3,7 +3,8 @@ RBG support for Discord Revamp.
 
 <br >
 
-Credits goes to GoldenLys, (https://github.com/GoldenLys/) the original creator of the .css
+Credits goes to GoldenLys (https://github.com/GoldenLys/), the original creator of the .css.
+<br >
 https://github.com/GoldenLys/BetterDiscord-Elysia
 
 <br >
